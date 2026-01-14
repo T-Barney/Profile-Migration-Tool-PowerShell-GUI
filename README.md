@@ -27,6 +27,8 @@ To use this tool effectively in a domain or workgroup environment:
     ```powershell
     .\profile-migration-tool.ps1
     ```
+    <img width="425" height="318" alt="image" src="https://github.com/user-attachments/assets/57bae590-22d8-4832-9428-86b0ff8c9a5f" />
+
 2.  **Username:** Enter the Active Directory or Local username of the profile to copy.
 3.  **Source/Destination:** Enter the Computer Name (or Service Tag/IP Address) for the source and destination machines.
 4.  Click **Start Migration**.
