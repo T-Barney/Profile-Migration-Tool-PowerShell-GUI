@@ -22,8 +22,7 @@ To use this tool effectively in a domain or workgroup environment:
 3.  **Admin Shares:** Windows Administrative Shares (C$) must be enabled on the target machines.
 
 ## 🛠️ Usage
-![PMT](https://github.com/user-attachments/assets/c4050888-f3e3-4e11-af17-4fdbb34e6588)
-
+![PMT](https://github.com/user-attachments/assets/4bec9f76-11c7-47b8-b1a2-f2ed4481918d)
 
 1.  Run the script:
     ```powershell
