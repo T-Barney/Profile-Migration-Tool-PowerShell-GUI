@@ -22,7 +22,7 @@ To use this tool effectively in a domain or workgroup environment:
 3.  **Admin Shares:** Windows Administrative Shares (C$) must be enabled on the target machines.
 
 ## 🛠️ Usage
-![pmt - Trim](https://github.com/user-attachments/assets/804062b8-a83d-43b8-9438-6bc9461a4273)
+![PMT](https://github.com/user-attachments/assets/c4050888-f3e3-4e11-af17-4fdbb34e6588)
 
 
 1.  Run the script:
